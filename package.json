@@ -1,6 +1,6 @@
 {
   "name": "mongoose-restful",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A tool to convert request query to mongoose find parameters: filter, select and options etc.",
   "main": "lib/index.js",
   "scripts": {
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rockyliyanlok/node-mongoose-restful-query-parser.git"
+    "url": "git+https://github.com/rockyliyanlok/node-mongoose-restful.git"
   },
   "keywords": [
     "mongoose",
@@ -48,7 +48,7 @@
     "@rockyli/timestamp": "^2.0.0"
   },
   "bugs": {
-    "url": "https://github.com/rockyliyanlok/node-mongoose-restful-query-parser/issues"
+    "url": "https://github.com/rockyliyanlok/node-mongoose-restful/issues"
   },
-  "homepage": "https://github.com/rockyliyanlok/node-mongoose-restful-query-parser#readme"
+  "homepage": "https://github.com/rockyliyanlok/node-mongoose-restful#readme"
 }
